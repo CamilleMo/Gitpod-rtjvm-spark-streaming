@@ -9,5 +9,6 @@ vscode:
     - eamodio.gitlens
     - mhutchie.git-graphports:
     - ahmadawais.shades-of-purple
-port: 8212
+ports:
+  - port: 8212
     onOpen: ignore
