@@ -208,3 +208,7 @@ spark-warehouse/
 checkpoints
 checkpoints/
 src/main/resources/twitter4j.properties
+
+# Camille's gitignore
+.bloop/
+.metals/

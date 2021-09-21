@@ -7,6 +7,6 @@ vscode:
     - scala-lang.scala
     - scalameta.metals
     - eamodio.gitlens
-ports:
-  - port: 8212
+    - mhutchie.git-graphports:
+    - ahmadawais.shades-of-purple  - port: 8212
     onOpen: ignore

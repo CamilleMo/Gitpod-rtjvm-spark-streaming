@@ -94,7 +94,7 @@ object SparkRecap {
     // showing a DF to the console
     cars.show()
     cars.printSchema()
-
+    spark.close()
 
   }
 }
