@@ -7,7 +7,7 @@ vscode:
     - scala-lang.scala
     - scalameta.metals
     - eamodio.gitlens
-    - mhutchie.git-graphports:
+    - mhutchie.git-graphports
     - ahmadawais.shades-of-purple
 ports:
   - port: 8212
