@@ -9,6 +9,6 @@ vscode:
     - eamodio.gitlens
     - mhutchie.git-graph
     - ahmadawais.shades-of-purple
-ports:
+    - equinusocio.vsc-material-theme-iconsports:
   - port: 8212
     onOpen: ignore
